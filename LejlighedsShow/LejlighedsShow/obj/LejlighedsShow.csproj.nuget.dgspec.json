@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/emilknudsen/RiderProjects/LejlighedsShow/LejlighedsShow/LejlighedsShow.csproj": {}
+    "/Users/emilknudsen/Desktop/LejlighedsShow/LejlighedsShow/LejlighedsShow/LejlighedsShow.csproj": {}
   },
   "projects": {
-    "/Users/emilknudsen/RiderProjects/LejlighedsShow/LejlighedsShow/LejlighedsShow.csproj": {
+    "/Users/emilknudsen/Desktop/LejlighedsShow/LejlighedsShow/LejlighedsShow/LejlighedsShow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/emilknudsen/RiderProjects/LejlighedsShow/LejlighedsShow/LejlighedsShow.csproj",
+        "projectUniqueName": "/Users/emilknudsen/Desktop/LejlighedsShow/LejlighedsShow/LejlighedsShow/LejlighedsShow.csproj",
         "projectName": "LejlighedsShow",
-        "projectPath": "/Users/emilknudsen/RiderProjects/LejlighedsShow/LejlighedsShow/LejlighedsShow.csproj",
+        "projectPath": "/Users/emilknudsen/Desktop/LejlighedsShow/LejlighedsShow/LejlighedsShow/LejlighedsShow.csproj",
         "packagesPath": "/Users/emilknudsen/.nuget/packages/",
-        "outputPath": "/Users/emilknudsen/RiderProjects/LejlighedsShow/LejlighedsShow/obj/",
+        "outputPath": "/Users/emilknudsen/Desktop/LejlighedsShow/LejlighedsShow/LejlighedsShow/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

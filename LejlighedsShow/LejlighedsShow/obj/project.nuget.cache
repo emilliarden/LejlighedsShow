@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R88w3Ss3pZOGHT/w/fLmSJ47KqFlQl9TtqQ7XhNsjEW9yO4LPxnmONsTdTTnkaAbGXmCjApHoUa0KVWorarNoA==",
+  "dgSpecHash": "1F97gVzAAsdlAapMU4Msc0L6oJq53uTTdTsZ6oS/CFZ33yS0qaz0/xjZQCayAJ7mPh8qAnrmstAkDhC+dyYRoA==",
   "success": true,
-  "projectFilePath": "/Users/emilknudsen/RiderProjects/LejlighedsShow/LejlighedsShow/LejlighedsShow.csproj",
+  "projectFilePath": "/Users/emilknudsen/Desktop/LejlighedsShow/LejlighedsShow/LejlighedsShow/LejlighedsShow.csproj",
   "expectedPackageFiles": [
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.identitymodel.jsonwebtokens/5.3.0/microsoft.identitymodel.jsonwebtokens.5.3.0.nupkg.sha512",
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.identitymodel.logging/5.3.0/microsoft.identitymodel.logging.5.3.0.nupkg.sha512",

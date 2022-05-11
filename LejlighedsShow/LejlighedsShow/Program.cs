@@ -39,7 +39,7 @@ public class Program
         {
             var currentContent = GetHTMLString(fond);
             
-            var filePath = "../../../Files/" + fond + ".txt";
+            var filePath = "/Files/" + fond + ".txt";
             
             
             if (!File.Exists(filePath))
