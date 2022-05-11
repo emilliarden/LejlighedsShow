@@ -38,8 +38,8 @@ public class Program
         foreach (var fond in fonde)
         {
             var currentContent = GetHTMLString(fond);
-            
-            var filePath = "/Files/" + fond + ".txt";
+            Console.WriteLine(Directory.GetCurrentDirectory());
+            var filePath = Directory.GetCurrentDirectory() + "/Files/" + fond + ".txt";
             
             
             if (!File.Exists(filePath))
